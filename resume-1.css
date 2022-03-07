@@ -1,0 +1,22 @@
+
+.a{
+    background-color: rgb(168, 167, 162);
+    border-style: double;
+    width : 800px;
+    margin: 0px auto;
+}
+.metaData{
+    margin-left: 340px;
+    margin-top: -110px;
+}
+.data{
+    margin: 35px;
+
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+.profile{
+    margin: 35px;
+}
